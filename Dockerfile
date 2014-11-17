@@ -1,4 +1,4 @@
-FROM densuke/trusty-jp:latest
+FROM densuke/ubuntu-jp-remix:trusty
 # supervisordを組み込んだバージョンです、/etc/supervisord.dディレクトリにiniを配置すればいろいろ動きます
 
 MAINTAINER densuke
